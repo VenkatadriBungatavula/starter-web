@@ -13,4 +13,4 @@ This is simple web project, deployment can be on any serveror even in local file
 ## How to contribute
 
 ### Copyright
-2020 Git.Traning
+2020 Git.Traning..
